@@ -1,0 +1,3 @@
+[submodule "aws-sdk-example"]
+	path = aws-sdk-example
+	url = git@github.com:mo3789530/aws-doc-sdk-examples.git
